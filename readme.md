@@ -4,67 +4,79 @@
 
 ### 📱 Android (Termux)
 Update and upgrade your packages:
-   ``pkg update && pkg upgrade``
+```shell script
+pkg update && pkg upgrade
+```
 Install Python:
-   ```bash
+```shell script
 pkg install python
+```
 Install Git:
-   ```bash
+```shell script
 pkg install git
+```
 Clone the repository:
-   ```bash
-
+```shell script
 git clone https://github.com/ch3cooh1337/bmb.git
+```
 Change directory to Bomber:
-   ```bash
-
+```shell script
 cd bmb
+```
 Install required packages:
-   ```bash
-
+```shell script
 pip install -r requirements.txt
+```
 Change directory to Android:
-   ```bash
-
+```shell script
 cd android
+```
 Run the bomber script:
-   ```bash
-
+```shell script
 python bomber.py
+```
+
 ### 🐧 Linux (Kali)
 Clone the repository:
-   ```bash
-
+```shell script
 git clone https://github.com/ch3cooh1337/bmb.git
+```
 Change directory to Bomber:
-   ```bash
-
+```shell script
 cd bmb
+```
 Install required packages:
-   ```bash
-
+```shell script
 pip install -r requirements.txt
+```
 Change directory to Linux:
-   ```bash
-
+```shell script
 cd linux
+```
 Run the bomber script:
-   ```bash
+```shell script
+python bomber.py
+```
 
-python bomber.py
 ### 💻 Windows
-   ```bash
+```shell script
 Download the repository here.
-   ```bash
+```
+```shell script
 Unzip the downloaded file.
-   ```bash
+```
+```shell script
 Open the extracted folder.
-   ```bash
+```
+```shell script
 Open CMD in the current path.
-   ```bash
+```
+```shell script
 Run the bomber script:
-   ```bash
+```
+```shell script
 python bomber.py
+```
 
 ### ⚙️ Usage Instructions
 Run the Script.
