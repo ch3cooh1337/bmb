@@ -61,7 +61,7 @@ python bomber.py
 ### 💻 Windows
 
 ```shell script
-Download the repository [here](https://t.me/ch3cooh1337).
+Download the repository from https://github.com/ch3cooh1337/bmb/archive/refs/heads/main.zip
 ```
 
 ```shell script
