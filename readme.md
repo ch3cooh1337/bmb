@@ -5,7 +5,7 @@
 ### 📱 Android (Termux)
 Update and upgrade your packages:
    ```bash
-   pkg update && pkg upgrade```
+   pkg update && pkg upgrade
 Install Python:
    ```bash
 pkg install python
@@ -32,7 +32,7 @@ Run the bomber script:
    ```bash
 
 python bomber.py
-🐧 Linux (Kali)
+### 🐧 Linux (Kali)
 Clone the repository:
    ```bash
 
@@ -53,7 +53,7 @@ Run the bomber script:
    ```bash
 
 python bomber.py
-💻 Windows
+### 💻 Windows
    ```bash
 Download the repository here.
    ```bash
@@ -67,7 +67,7 @@ Run the bomber script:
    ```bash
 python bomber.py
 
-⚙️ Usage Instructions
+### ⚙️ Usage Instructions
 Run the Script.
 Enter the Number of the Victim.
 Enter the Amount You Want to Bomb.
