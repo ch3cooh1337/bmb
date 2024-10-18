@@ -59,21 +59,25 @@ python bomber.py
 ```
 
 ### 💻 Windows
+
 ```shell script
-Download the repository here.
+Download the repository [here](https://t.me/ch3cooh1337).
 ```
+
 ```shell script
 Unzip the downloaded file.
 ```
+
 ```shell script
 Open the extracted folder.
 ```
+
 ```shell script
 Open CMD in the current path.
 ```
-```shell script
+
 Run the bomber script:
-```
+
 ```shell script
 python bomber.py
 ```
