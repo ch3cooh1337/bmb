@@ -93,5 +93,5 @@ If you enter 1000, it will send 2000 SMS.
 🛠️ Author and Creator
 @CH3COOH1337
 
-Join the Community:
+## Join the Community:
 [Telegram Channel](https://t.me/ch3cooh1337)
