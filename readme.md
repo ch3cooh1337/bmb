@@ -3,67 +3,70 @@
 ## 📋 Setup Tutorial
 
 ### 📱 Android (Termux)
-1. Update and upgrade your packages:
+Update and upgrade your packages:
    ```bash
    pkg update && pkg upgrade
 Install Python:
-bash
-Copy code
+   ```bash
 pkg install python
 Install Git:
-bash
-Copy code
+   ```bash
 pkg install git
 Clone the repository:
-bash
-Copy code
+   ```bash
+
 git clone https://github.com/ch3cooh1337/bmb.git
 Change directory to Bomber:
-bash
-Copy code
+   ```bash
+
 cd bmb
 Install required packages:
-bash
-Copy code
+   ```bash
+
 pip install -r requirements.txt
 Change directory to Android:
-bash
-Copy code
+   ```bash
+
 cd android
 Run the bomber script:
-bash
-Copy code
+   ```bash
+
 python bomber.py
 🐧 Linux (Kali)
 Clone the repository:
-bash
-Copy code
+   ```bash
+
 git clone https://github.com/ch3cooh1337/bmb.git
 Change directory to Bomber:
-bash
-Copy code
+   ```bash
+
 cd bmb
 Install required packages:
-bash
-Copy code
+   ```bash
+
 pip install -r requirements.txt
 Change directory to Linux:
-bash
-Copy code
+   ```bash
+
 cd linux
 Run the bomber script:
-bash
-Copy code
+   ```bash
+
 python bomber.py
 💻 Windows
+   ```bash
 Download the repository here.
+   ```bash
 Unzip the downloaded file.
+   ```bash
 Open the extracted folder.
+   ```bash
 Open CMD in the current path.
+   ```bash
 Run the bomber script:
-bash
-Copy code
+   ```bash
 python bomber.py
+
 ⚙️ Usage Instructions
 Run the Script.
 Enter the Number of the Victim.
